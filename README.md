@@ -11,14 +11,14 @@ right time would mean success to Avvy and a great vacation experience to vacatio
 
 
 ## Results:
-1. Perfect weather to surf:
+## 1. Perfect weather to surf:
 With summer being one of the hottest months in the year it makes June the perfect month to be out on the beach. Based on our research we found that many families are taking 
 advantage of the "perfect weather". We also found that with June being such a good time for great weather many surfers plan to hit the the big waves. 
 
-2. Great month for vacationers:
+## 2. Great month for vacationers:
 We also found that June maximum tempreature was 85 degrees. Not Bad ! Also, the median Tempreature was found to be 74 degrees. Becasue so many families enjoy this time of the year it made perfect sence to open up our amazing shope in June.
 
-3. Alternate options for Holiday family.
+## 3. Alternate options for Holiday family.
 Because we are on the Hawaian Islands, the weather remains normally constant with the exception of precepitation. 
 We found, that December was great to vacation as well. Avy had us pull some Data for December as a possible options to open up. We noticed that the Max Tempreature
 was not far off from June. With a max of 83 defrees and a median of 71, it made an amazing option. We also know that many families like vacationing to the Island throughout the holiday seasons to get that last splash in the sun. 
