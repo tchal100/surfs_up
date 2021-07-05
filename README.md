@@ -23,6 +23,7 @@ Because we are on the Hawaian Islands, the weather remains normally constant wit
 We found, that December was great to vacation as well. Avy had us pull some Data for December as a possible options to open up. We noticed that the Max Tempreature
 was not far off from June. With a max of 83 defrees and a median of 71, it made an amazing option. We also know that many families like vacationing to the Island throughout the holiday seasons to get that last splash in the sun. 
 
+ ![](Images/Date.png)
 
 
 ## Summary:
